@@ -17,7 +17,7 @@ function IntegratedTerminal() {
     <div
       style={{
         position: "fixed",
-        top: "60px", // height of navbar
+        top: "60px",
         left: 0,
         width: "100%",
         height: "calc(100vh - 60px)",
